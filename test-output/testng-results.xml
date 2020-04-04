@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28576" started-at="2020-04-04T00:07:12Z" finished-at="2020-04-04T00:07:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28576" started-at="2020-04-04T00:07:12Z" finished-at="2020-04-04T00:07:41Z">
+      <class name="loans.CalLoantTest">
+        <test-method status="PASS" signature="loanCal()[pri:0, instance:loans.CalLoantTest@36d4b5c]" name="loanCal" duration-ms="28514" started-at="2020-04-04T01:07:12Z" finished-at="2020-04-04T01:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanCal -->
+      </class> <!-- loans.CalLoantTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
